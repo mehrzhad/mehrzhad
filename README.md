@@ -32,6 +32,6 @@
 <h3> 🤝 &nbsp;Reach Me From: </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mehranhamedani/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-333333?style=flat&logo=linkedin"></a>
-<a href="https://www.twitter.com/mehrzhad"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter"></a>
+<a href="https://www.linkedin.com/in/mehranhamedani/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-333333?style=flat&logo=linkedin"></a>
+<a href="https://www.twitter.com/mehrzhad" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter"></a>
 </p>
